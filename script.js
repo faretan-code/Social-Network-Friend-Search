@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchUsers();
 
     function handleLogout() {
-        window.location.href = '../AuthorizationNRegistration/index.html';
+        window.location.href = 'https://faretan-code.github.io/AuthorizationNRegistration/';
     }
 
     function handleSearchInput(e) {
